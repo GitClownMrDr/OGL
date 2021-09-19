@@ -1,4 +1,4 @@
 /build
 /.vs
-/external
+/external/glfw
 /out
